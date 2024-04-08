@@ -2,15 +2,15 @@
 
 This repository contains my customized configuration files for Zsh, including my `.zshrc` and `.p10k.zsh` files.
 
-## .zshrc
+### .zshrc
 
 `.zshrc` is a configuration file for the Z shell (Zsh). It contains various settings, aliases, and customizations to enhance my Zsh experience.
 
-## .p10k.zsh
+### .p10k.zsh
 
 `.p10k.zsh` is the configuration file for Powerlevel10k, a Zsh theme. It customizes the appearance of my terminal prompt, providing a visually appealing and informative prompt.
 
-### Usage
+## Usage
 
 To use these configurations:
 
@@ -30,6 +30,6 @@ To use these configurations:
 
 Now, your Zsh configuration will be updated with the settings from this repository.
 
-### Troubleshooting
+## Troubleshooting
 
 `ln: ~/.zshrc: File exists` -> Remove existing `.zshrc` from `~` before creating a symlink.
