@@ -29,3 +29,7 @@ To use these configurations:
 `source ~/.zshrc`
 
 Now, your Zsh configuration will be updated with the settings from this repository.
+
+### Troubleshooting
+
+`ln: ~/.zshrc: File exists` -> Remove existing `.zshrc` from `~` before creating a symlink.
